@@ -3,7 +3,7 @@
 ## Live Profiles
 
 LinkedIn: https://www.linkedin.com/in/galyna-chernyshenko-2a861846/  
-Djinni: https://djinni.co/my/profile/
+Djinni: https://djinni.co/q/365f5837b6/
 
 ## CV
 
