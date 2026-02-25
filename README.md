@@ -9,6 +9,7 @@ Djinni: https://djinni.co/my/profile/
 
 Galyna_Chernyshenko_Data_Analyst.pdf
 
+File: [Download CV](Galyna_Chernyshenko_Data_Analyst.pdf) 
 
 ## Projects
 
@@ -18,7 +19,8 @@ Galyna_Chernyshenko_Data_Analyst.pdf
 - Fraud concentration analysis
 - Google Sheets dashboard
 
-File: Чернишенко_fintech_проект1.xlsx
+File: [Financial Transactions Analysis – SQL Project](Чернишенко_fintech_проект1.xlsx)
+
 
 
 ### A/B Test Analysis
@@ -26,7 +28,7 @@ File: Чернишенко_fintech_проект1.xlsx
 - Conversion rate analysis
 - Business impact evaluation
 
-File: Chernyshenko_ABtest (1).pdf
+File: [A/B Test Analysis](Chernyshenko_ABtest (1).pdf)
 
 
 ### Survey / Research Analysis
@@ -34,7 +36,7 @@ File: Chernyshenko_ABtest (1).pdf
 - Statistical data processing
 - Insights interpretation
 
-File: Pidsum_proect_Cherko (1).pdf
+File: [Phyto Project](Pidsum_proect_Chernko (1).pdf)
 
 
 ## Tools & Technologies
