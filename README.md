@@ -28,7 +28,7 @@ File: [Financial Transactions Analysis – SQL Project](Чернишенко_fin
 - Conversion rate analysis
 - Business impact evaluation
 
-File: [A/B Test Analysis](Chernyshenko_ABtest (1).pdf)
+File: [A/B Test Analysis](Chernyshenko_ABtest(1).pdf)
 
 
 ### Survey / Research Analysis
@@ -36,7 +36,7 @@ File: [A/B Test Analysis](Chernyshenko_ABtest (1).pdf)
 - Statistical data processing
 - Insights interpretation
 
-File: [Phyton Project](Pidsum_proect_Chernko (1).pdf)
+File: [Survey Data Analysis](Survey_Data_Analysis.pdf)
 
 
 ## Tools & Technologies
