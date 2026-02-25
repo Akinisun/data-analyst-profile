@@ -36,7 +36,7 @@ File: [A/B Test Analysis](Chernyshenko_ABtest (1).pdf)
 - Statistical data processing
 - Insights interpretation
 
-File: [Phyto Project](Pidsum_proect_Chernko (1).pdf)
+File: [Phyton Project](Pidsum_proect_Chernko (1).pdf)
 
 
 ## Tools & Technologies
